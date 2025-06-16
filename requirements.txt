@@ -1,6 +1,5 @@
-streamlit
-ccxt
-pandas
-numpy
-pandas_ta
-tensorflow
+streamlit==1.33.0
+ccxt==4.1.87
+pandas==2.2.2
+numpy==1.26.4
+pandas_ta==0.3.14b
