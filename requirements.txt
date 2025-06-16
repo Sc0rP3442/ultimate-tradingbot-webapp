@@ -2,5 +2,5 @@ streamlit
 ccxt
 pandas
 numpy
-ta-lib
+pandas_ta
 tensorflow
